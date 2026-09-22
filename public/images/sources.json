@@ -86,5 +86,68 @@
     "height": 1210,
     "webpBytes": 231388,
     "source": "https://www.cafe21express.com/wp-content/uploads/2025/11/tables-and-seats-2-condensed-2.png"
+  },
+  {
+    "file": "public/images/ham-panini.webp",
+    "source": "https://www.cafe21express.com/wp-content/uploads/2025/12/ham-panini.jpg",
+    "width": 1512,
+    "height": 851,
+    "webpBytes": 119526,
+    "sha256": "3a74086cb44e0ed03c9031a13dcced527840791898a7ce0f2dddd8d693bd0cc6",
+    "conversion": "Pillow WebP quality 86, EXIF orientation, max dimension 1600; no color edits or artistic modification"
+  },
+  {
+    "file": "public/images/breakfast-bagel.webp",
+    "source": "https://www.cafe21express.com/wp-content/uploads/2026/02/ham-scrambled-eggs-and-cheese-scaled.jpg",
+    "width": 1600,
+    "height": 900,
+    "webpBytes": 127208,
+    "sha256": "7912a2b85b7b321d91f3ec6913a453415a35ffac8e5130e8c22e520c0fe7283c",
+    "conversion": "Pillow WebP quality 86, EXIF orientation, max dimension 1600; no color edits or artistic modification"
+  },
+  {
+    "file": "public/images/california-croissant.webp",
+    "source": "https://www.cafe21express.com/wp-content/uploads/2025/12/California-crossiant-scaled.jpg",
+    "width": 1200,
+    "height": 1600,
+    "webpBytes": 119754,
+    "sha256": "6ee317ab45c059de1bc4556ca9a810912606316449e28b20dac7bdd2d63ff2f5",
+    "conversion": "Pillow WebP quality 86, EXIF orientation, max dimension 1600; no color edits or artistic modification"
+  },
+  {
+    "file": "public/images/veggie-burrito.webp",
+    "source": "https://www.cafe21express.com/wp-content/uploads/2026/02/veggie-burrito-scaled.jpg",
+    "width": 1200,
+    "height": 1600,
+    "webpBytes": 105978,
+    "sha256": "658ed85bb41c9377814c90431343cdc560bf6cba158353399436161168175f8b",
+    "conversion": "Pillow WebP quality 86, EXIF orientation, max dimension 1600; no color edits or artistic modification"
+  },
+  {
+    "file": "public/images/blt.webp",
+    "source": "https://www.cafe21express.com/wp-content/uploads/2025/12/BLT-scaled.jpg",
+    "width": 1600,
+    "height": 900,
+    "webpBytes": 160504,
+    "sha256": "b19107827c941b84d50a92b8221aae1045fb4bc93aef28aec00dc140863c9a75",
+    "conversion": "Pillow WebP quality 86, EXIF orientation, max dimension 1600; no color edits or artistic modification"
+  },
+  {
+    "file": "public/images/breakfast-croissant.webp",
+    "source": "https://www.cafe21express.com/wp-content/uploads/2025/12/Sausage-egg-and-cheese-scaled.jpg",
+    "width": 1200,
+    "height": 1600,
+    "webpBytes": 108250,
+    "sha256": "21ebe8e7aa4e08d64799d07069f6f914ad30368d14b140ccd44fde065d3a7386",
+    "conversion": "Pillow WebP quality 86, EXIF orientation, max dimension 1600; no color edits or artistic modification"
+  },
+  {
+    "file": "public/images/croissant-sandwich.webp",
+    "source": "https://www.cafe21express.com/wp-content/uploads/2025/12/Crossaint-sandwich-1.png",
+    "width": 608,
+    "height": 611,
+    "webpBytes": 31800,
+    "sha256": "07ea494002c5fc001454f125e06d1af23ea3f9d7382d3a36a78d209e9ce12652",
+    "conversion": "Pillow WebP quality 86, EXIF orientation, max dimension 1600; no color edits or artistic modification"
   }
 ]

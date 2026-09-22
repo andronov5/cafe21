@@ -13,7 +13,9 @@ Built with React, TypeScript, Vinext and accessible Radix UI primitives. Fonts a
 
 ## Features
 
-Interactive swipeable food-photo carousel with mouse tilt, keyboard navigation and matching prices; immersive Green room scroll scene; floating quick navigation; animated headline and tactile food cards; responsive navigation; breakfast/lunch tabs; expandable lunch menu and food cards; real catering phone links; Google Maps directions; FAQ accordion; reduced-motion support.
+Five distinct pages: Home, Menu, Our Place, Catering, and Visit. Soft Fraunces typography, strawberry and cream colors, leafy arched photography, gingham and postcard details. Swipeable breakfast favorites carousel, responsive navigation with active-page state, breakfast/lunch tabs, expandable lunch menu and food cards, real catering phone links, Google Maps directions, FAQ accordion, and reduced-motion support.
+
+Uses seven additional original photos from the business's public media catalog, including breakfast croissants, bagels, burritos, paninis, and sandwiches.
 
 ## Content
 
