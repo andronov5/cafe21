@@ -13,7 +13,7 @@ Built with React, TypeScript, Vinext and accessible Radix UI primitives. Fonts a
 
 ## Features
 
-Responsive navigation; breakfast/lunch tabs; expandable lunch menu and food cards; real catering phone links; Google Maps directions; FAQ accordion; reduced-motion support.
+Interactive swipeable food-photo carousel with mouse tilt, keyboard navigation and matching prices; immersive Green room scroll scene; floating quick navigation; animated headline and tactile food cards; responsive navigation; breakfast/lunch tabs; expandable lunch menu and food cards; real catering phone links; Google Maps directions; FAQ accordion; reduced-motion support.
 
 ## Content
 
