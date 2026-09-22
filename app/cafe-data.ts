@@ -5,7 +5,7 @@ export const foods = [
   { name: "Club Combo", tag: "STACKED WITH THE GOOD STUFF", price: "8.99", image: "Club-Combo-2.webp", alt: "Two halves of Cafe 21's club sandwich with lettuce and tomato", description: "A classic club, made for your midday pause." },
   { name: "Shrimp Fried Rice", tag: "SWITCH UP YOUR USUAL", price: "11.59", image: "Shrimp-Fried-Rice-1.webp", alt: "Cafe 21 shrimp fried rice with vegetables", description: "A warm, colorful change of pace for your lunch break." },
   { name: "Cheeseburger", tag: "A VERY GOOD IDEA", price: "6.29", image: "Cheese-burger.webp", alt: "Cafe 21 cheeseburger with lettuce, tomato and pickles", description: "The kind of classic that needs no introduction." },
-  { name: "California Croissant", tag: "A LOVELY LUNCH", price: "8.69", image: "california-croissant.webp", alt: "Café 21 California croissant sandwich with fresh greens", description: "A golden croissant and a little midday happiness." },
+  { name: "California Croissant", tag: "A LOVELY LUNCH", price: "8.69", image: "california-croissant.webp", alt: "Café 21 California croissant sandwich with fresh greens", description: "A flaky croissant sandwich for your midday break." },
   { name: "BLT", tag: "A SIMPLE FAVORITE", price: "7.99", image: "blt.webp", alt: "Café 21 BLT sandwich with fresh lettuce and tomato", description: "A familiar favorite for your lunch break." },
 ];
 export const breakfast = [
@@ -22,9 +22,9 @@ export const moreLunch = [
 
 
 export const favorites = [
-  {name:"A little lunch date", image:"croissant-sandwich.webp", alt:"Café 21 croissant sandwich with lettuce and tomato", description:"Golden, flaky, and full of good things."},
-  {name:"A golden croissant", image:"breakfast-croissant.webp", alt:"Café 21 sausage, egg and cheese croissant", description:"Your morning, made a little lovelier."},
-  {name:"The breakfast bagel", image:"breakfast-bagel.webp", alt:"Café 21 ham, scrambled egg and cheese bagel", description:"A cozy start to a busy day."},
-  {name:"California Croissant", image:"california-croissant.webp", alt:"Café 21 California croissant sandwich", description:"A lovely little lunch date."},
-  {name:"Toasty panini", image:"ham-panini.webp", alt:"Café 21 toasted ham panini", description:"Something warm to look forward to."},
+  {name:"Croissant sandwich", image:"croissant-sandwich.webp", alt:"Café 21 croissant sandwich with lettuce and tomato", description:"Golden, flaky, and full of good things."},
+  {name:"Breakfast croissant", image:"breakfast-croissant.webp", alt:"Café 21 sausage, egg and cheese croissant", description:"Sausage, egg & cheese."},
+  {name:"Breakfast bagel", image:"breakfast-bagel.webp", alt:"Café 21 ham, scrambled egg and cheese bagel", description:"Ham, scrambled egg & cheese."},
+  {name:"California Croissant", image:"california-croissant.webp", alt:"Café 21 California croissant sandwich", description:"A fresh take on your lunch break."},
+  {name:"Ham panini", image:"ham-panini.webp", alt:"Café 21 toasted ham panini", description:"Toasted and ready for your day."},
 ];

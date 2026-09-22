@@ -68,3 +68,18 @@
   font-display: swap;
   src: url(/fonts/fraunces-normal.ttf) format('truetype');
 }
+
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/bodoni-italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/bodoni-normal.ttf) format('truetype');
+}
