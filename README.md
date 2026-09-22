@@ -13,7 +13,7 @@ Built with React, TypeScript, Vinext and accessible Radix UI primitives. Fonts a
 
 ## Features
 
-Five distinct pages: Home, Menu, Our Place, Catering, and Visit. Soft Fraunces typography, strawberry and cream colors, leafy arched photography, gingham and postcard details. Swipeable breakfast favorites carousel, responsive navigation with active-page state, breakfast/lunch tabs, expandable lunch menu and food cards, real catering phone links, Google Maps directions, FAQ accordion, and reduced-motion support.
+Five distinct pages: Home, Menu, Our Place, Catering, and Visit. Soft Fraunces typography, sharp scarlet and ivory colors, leafy arched photography, fine borders and subtle postcard details. Swipeable breakfast favorites carousel, responsive navigation with active-page state, breakfast/lunch tabs, expandable lunch menu and food cards, real catering phone links, Google Maps directions, FAQ accordion, and reduced-motion support.
 
 Uses seven additional original photos from the business's public media catalog, including breakfast croissants, bagels, burritos, paninis, and sandwiches.
 
