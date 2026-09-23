@@ -5,7 +5,7 @@ import { ArrowUpRight, Coffee, Flower2, Heart, Menu, X } from "lucide-react";
 import { phone } from "./cafe-data";
 const links = [["/", "Home"], ["/menu", "The menu"], ["/our-place", "Our place"], ["/catering", "Catering"], ["/visit", "Visit us"]];
 export function CafeHeader() {
-  const path = usePathname();
+  const path = usePathname().replace(/\/$/, "") || "/";
   const [open, setOpen] = useState(false);
   useEffect(() => setOpen(false), [path]);
   useEffect(() => {if (!open) return;const close = (e: KeyboardEvent) => { if (e.key === "Escape") setOpen(false); };document.addEventListener("keydown", close);return () => document.removeEventListener("keydown", close);}, [open]);

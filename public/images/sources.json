@@ -149,5 +149,13 @@
     "webpBytes": 31800,
     "sha256": "07ea494002c5fc001454f125e06d1af23ea3f9d7382d3a36a78d209e9ce12652",
     "conversion": "Pillow WebP quality 86, EXIF orientation, max dimension 1600; no color edits or artistic modification"
+  },
+  {
+    "file": "public/images/cafe21-storefront.png",
+    "source": "User-provided photo: c8ee94df-4ec8-4cfd-b773-72ec4569daf0.png",
+    "width": 348,
+    "height": 348,
+    "sha256": "d2722d0524d7f1258b1230b9be337e2d00d0e2f17fce8d103bf2ea238108f4ad",
+    "conversion": "Original uploaded PNG, unchanged"
   }
 ]
